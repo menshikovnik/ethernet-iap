@@ -1,2 +1,23 @@
+# IDE
+.settings/
+.project
+.cproject
+.mxproject
+*.launch
+
+# Build
+Debug/
+Release/
+*.o
+*.d
+*.elf
+*.map
+*.bin
+*.hex
+*.list
+*.log
+
+# Misc
+*.user
 /build
 *.pro.user
